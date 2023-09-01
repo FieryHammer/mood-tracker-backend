@@ -24,6 +24,26 @@
       "id": "2023-08-18",
       "mood": "Delighted",
       "note": "Finally Friday! Had a new PR at the gym as well"
+    },
+    {
+      "id": "2023-09-01",
+      "mood": "Delighted",
+      "note": "Friday again :)"
+    },
+    {
+      "id": "2023-09-04",
+      "mood": "Sad",
+      "note": "Bad weather. Got my mood down the whole day"
+    }
+    ,{
+      "id": "2023-09-07",
+      "mood": "Lovestruck",
+      "note": "It's my b-day! Yay!"
+    },
+    {
+      "id": "2023-09-09",
+      "mood": "Happy",
+      "note": "Spent almost the whole day with my friends. It was an amazing day!"
     }
   ],
   "profile": [
